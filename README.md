@@ -1,1 +1,1 @@
-# Projekt-Bemutatkoz-weblap-k-sz-t-se.
+# Projekt-Bemutatkoz-weblap
