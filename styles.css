@@ -1,0 +1,53 @@
+body {
+    background-color: #a1e8f0;
+}
+
+
+.bemutatkozas {
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+img{
+    width: 15%;
+    height: auto;
+    margin-left: 1500px;
+}
+
+.udvoz {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.nev{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+
+
+.elso {
+    margin-left: 20px;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.masodik{
+    margin-left: 20px;
+    font-size: 24px;
+    
+}
+
+.utolso{
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+.kep{
+   margin-left: 1500px; 
+}
